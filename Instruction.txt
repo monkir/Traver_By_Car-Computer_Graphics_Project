@@ -1,0 +1,6 @@
+Key C press: City view
+Key V press: Village view
+Key W press: Windmill view
+Mouse Right-click: Speed up
+Mouse Left-click: Speed down
+Mouse Middle-click: Stop moving

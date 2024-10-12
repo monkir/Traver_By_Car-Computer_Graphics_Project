@@ -58,6 +58,6 @@
 
 ![Windmill View.png](Snaps/Windmill%20View.png)
 
-# Conclusion
+# Thanks
 
-Thank you for being so concerned. 🦐
+Thanks for being so concerned. 🦐

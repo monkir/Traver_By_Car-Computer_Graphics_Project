@@ -4,13 +4,13 @@
 
 - This is a computer graphics project I did in my university project using GLUT.  
 
-- The main representative of our project is based on a particular object, a Car, having multiple scenarios on the background that will be changing by time accordingly.  
+- The main representative of our project is based on a particular object, a Car, having multiple scenarios in the background that will be changing over time accordingly.  
 
-- Main objectives that are added in the project includes the sun, moon, clouds, birds, trees, river, mountain, ground, road, car, boat, ship etc.  
+- The main objectives that are added in the project include the sun, moon, clouds, birds, trees, river, mountain, ground, road, car, boat, ship, etc.  
 
-- In addition, the graphics will be used to illustrate seasonal changes, changes in weather such as windy or rainy or snowy. There will also be changes in the day and night time view.  
+- In addition, the graphics will be used to illustrate seasonal changes, and changes in weather such as windy rainy, or snowy. There will also be changes in the day and night time view.  
 
-- In short, the project is to portray different places and scenario while travelling by a car, with all the other changes alongside.
+- In short, the project is to portray different places and scenarios while traveling by car, with all the other changes alongside.
 
 ## Technologies
 
@@ -22,13 +22,27 @@
 
 ## Features
 
-- Background changing mode between 3 differents view. (Village, City, Wind Mill)
+- Background changing mode between 3 different views. (Village, City, Wind Mill)
 
-- Enjoying day/night effect with sun and moon rising and dawning.
+- Enjoying the day/night effect with the sun and moon rising and dawning.
 
-- Easy car speed contolling system.(Faster, Slower, Start, Brake) 
+- Easy car speed controlling system. (Faster, Slower, Start, Brake) 
 
 - Ultimate view of various objects like bird, flower, house, tree, sun, moon, cloud.
+
+## Control
+
+- Key C press: City view
+
+- Key V press: Village view
+
+- Key W press: Windmill view
+
+- Mouse Right-click: Speed up
+
+- Mouse Left-click: Speed down
+
+- Mouse Middle-click: Stop moving
 
 ## Some Snaps
 
@@ -46,4 +60,4 @@
 
 # Conclusion
 
-Thank you for your concern. 🦐
+Thank you for being so concerned. 🦐

@@ -18,7 +18,7 @@
 
 - Platform: OpenGL GLUT
 
-- Language: C# 
+- Language: C++
 
 ## Features
 
